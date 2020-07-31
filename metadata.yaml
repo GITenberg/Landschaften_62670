@@ -1,0 +1,39 @@
+_repo: Landschaften_62670
+_version: 0.0.1
+contributor:
+  author_of_introduction:
+    agent_name: Kotzde-Kottenrodt, Wilhelm
+    aliases:
+    - Kottenrodt, Wilhelm
+    - Kotzde, Wilhelm
+    birthdate: 1878
+    deathdate: 1948
+    gutenberg_agent_id: '52069'
+    url: http://www.gutenberg.org/2009/agents/52069
+    wikipedia: https://de.wikipedia.org/wiki/Wilhelm_Kotzde-Kottenrodt
+creator:
+  author:
+    agent_name: Thoma, Hans
+    birthdate: 1839
+    deathdate: 1924
+    gutenberg_agent_id: '52068'
+    url: http://www.gutenberg.org/2009/agents/52068
+    wikipedia:
+    - https://de.wikipedia.org/wiki/Hans_Thoma
+    - https://en.wikipedia.org/wiki/Hans_Thoma
+description: ''
+gutenberg_issued: '2020-07-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62670'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Painters -- Germany'
+- !lcc 'ND'
+- !lcsh 'Thoma, Hans, 1839-1924'
+- GITenberg
+title: Landschaften
+url: http://www.gutenberg.org/ebooks/62670
