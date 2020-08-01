@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '52069'
     url: http://www.gutenberg.org/2009/agents/52069
     wikipedia: https://de.wikipedia.org/wiki/Wilhelm_Kotzde-Kottenrodt
+covers:
+- cover_type: archival
+  image_path: 62670-h/images/cover.jpg
 creator:
   author:
     agent_name: Thoma, Hans
@@ -22,6 +25,8 @@ creator:
     - https://de.wikipedia.org/wiki/Hans_Thoma
     - https://en.wikipedia.org/wiki/Hans_Thoma
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62670#Landschaften
 gutenberg_issued: '2020-07-16'
 gutenberg_type: Text
 identifiers:
